@@ -1,6 +1,6 @@
 # SketchQuizGame
 [네트워크 프로그래밍 텀 프로젝트] 스케치 퀴즈 게임 프로그램
-![스케치퀴즈 표지ㅏ](https://github.com/SungJiYoon/NetworkTerm/assets/66246253/f0125e85-ad93-41e7-a32b-20e7b5c522a6)
+![스케치퀴즈 표지](https://github.com/ss-zun/NT_SketchQuizGame/assets/66246253/c2713e19-7f1d-473f-9aa8-e231c335cac0)
 YouTubeLink : https://youtu.be/mX0vGmulsrs
 
 ## 01. 소개 
