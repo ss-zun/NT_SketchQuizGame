@@ -1,6 +1,7 @@
 # SketchQuizGame
 [네트워크 프로그래밍 텀 프로젝트] 스케치 퀴즈 게임 프로그램
-
+![스케치퀴즈 표지ㅏ](https://github.com/SungJiYoon/NetworkTerm/assets/66246253/f0125e85-ad93-41e7-a32b-20e7b5c522a6)
+YouTubeLink : https://youtu.be/mX0vGmulsrs
 
 ## 01. 소개 
 로그인을 한 뒤, 게임 룸에 입장하여, 한 사람이 그림을 그려 문제를 내고, 나머지 다수의 사람이 채팅을 통해 그림을 맞추는 게임입니다.
